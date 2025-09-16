@@ -7,7 +7,6 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/oklog/ulid v1.3.1
 	github.com/stretchr/testify v1.11.1
-	go.mongodb.org/mongo-driver v1.17.4
 	golang.org/x/net v0.44.0
 )
 
